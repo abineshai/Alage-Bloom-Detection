@@ -231,6 +231,3 @@ And load it in `app.py` with `python-dotenv` if desired.
 
 ---
 
-## 📝 License
-
-MIT — open for research, education, and environmental monitoring use.
